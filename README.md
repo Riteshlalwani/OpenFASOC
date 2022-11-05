@@ -154,7 +154,8 @@ Theses are the verilog template files which are used for the creation of netlist
 The placeholders in the verilog template files are replaced with the aux_cell info. The difference between the template and the generated verilog file can be found below. (Example)
 
 
-![image](https://user-images.githubusercontent.com/110079729/199911241-2a268f6f-d624-4935-95d1-4bf9b7fce966.png)
+![File1](https://user-images.githubusercontent.com/110079763/200115519-34c977ba-12e5-4acb-98e3-5479c6635ccd.png)
+
 
 
 The temp_gen_netlist function can be found in ``` openfasoc/generators/temp-sense-gen/tools/TEMP_netlist.py ```
